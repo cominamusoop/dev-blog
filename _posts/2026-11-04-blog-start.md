@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dev Blog를 시작하며"
-date: 2026-11-05 09:00:00 +0900
+date: 2026-11-04 09:00:00 +0900
 categories: [blog]
 excerpt: "Jekyll과 GitHub Pages로 개발 기록을 남길 블로그를 만들기 시작했습니다."
 ---
