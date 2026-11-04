@@ -1,0 +1,20 @@
+# 블로그 기본 정보
+title: "Dev Blog"
+description: "개발하며 배우고 경험한 내용을 기록하는 공간"
+author: "cominamusoop"
+
+# GitHub Pages 설정
+url: "https://cominamusoop.github.io"
+baseurl: "/dev-blog"
+
+# 시간대
+timezone: Asia/Seoul
+
+# 게시물 설정
+permalink: /:categories/:year/:month/:day/:title/
+
+# Markdown 설정
+markdown: kramdown
+
+# 기본 설정
+show_excerpts: true
